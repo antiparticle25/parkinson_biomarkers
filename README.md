@@ -9,7 +9,7 @@ This project focuses on predicting the Unified Parkinson's Disease Rating Scale 
 
 Before you begin, ensure you have the following installed on your system:
 
-- **Docker**: This project uses Docker. If you don't have Docker installed, please follow the [official Docker installation guide](https://docs.docker.com/get-docker/).
+- **Docker**: If you don't have Docker installed, please follow the [official Docker installation guide](https://docs.docker.com/get-docker/).
 
 ## My interest on the dataset and in the subject
 Notably, the top-performing teams in the competition largely bypassed the Mass Spectrometry data! That certainly triggered my interest on the project.
