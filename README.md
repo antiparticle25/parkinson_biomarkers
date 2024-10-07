@@ -13,7 +13,7 @@ Before you begin, ensure you have the following installed on your system:
 
 ## My interest on the dataset and in the subject
 Parkinson's disease can manifest in similar, overlapping clinical symptoms across patients, yet the molecular mechanisms behind the disease remain incompletely understood.
-I have focused mostly on capturing groups of patients with similar peptide/protein and peptide modification profile in a longitudinal context.
+I have focused mostly on capturing groups of patients with similar peptide/protein and peptide modification profile in a longitudinal context, and will subsequently model UPDRS score prediction.
 
 ## Quick Start
 To set up the project environment and explore the dataset:
